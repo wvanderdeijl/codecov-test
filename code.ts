@@ -7,7 +7,7 @@ export function b() {
 }
 
 export function c() {
-    return 'c';
+    return 'cc';
 }
 
 export function d() {
