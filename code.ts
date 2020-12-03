@@ -3,7 +3,7 @@ export function a() {
 }
 
 export function b() {
-    return 'b';
+    return 'bb';
 }
 
 export function c() {
